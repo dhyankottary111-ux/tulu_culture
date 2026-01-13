@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bhuta Kola | Tulu Culture</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <h1><span class="blue">Bhuta Kola</span></h1>
+  <p>Sacred spirit worship of Tulunadu</p>
+</header>
+
+<nav class="navbar">
+  <a href="index.html">Home</a>
+  <a href="#origin">Origin</a>
+  <a href="#ritual">Ritual</a>
+  <a href="#belief">Belief</a>
+  <a href="#significance">Significance</a>
+</nav>
+
+<section id="origin" class="section">
+  <h2>Origin of <span class="blue">Bhuta Kola</span></h2>
+  <p>
+    Bhuta Kola is an ancient spirit worship ritual practiced in Tulunadu,
+    where divine spirits known as <strong>Daivas</strong> are invoked to
+    protect villages, families, and land.
+  </p>
+  <p>
+    Unlike temple-centric traditions, Bhuta Kola reflects a living belief
+    system where the divine directly communicates through the performer.
+  </p>
+</section>
+
+<section id="ritual" class="section soft">
+  <h2>The <span class="blue">Ritual Process</span></h2>
+  <p>
+    The ritual is performed at night in sacred spaces called
+    <strong>Daivasthana</strong>. A trained performer adorns elaborate
+    costumes, facial paint, and ornaments.
+  </p>
+  <p>
+    Through music, chants, and dance, the performer enters a trance
+    believed to be possession by the Daiva.
+  </p>
+</section>
+
+<section id="belief" class="section">
+  <h2>Spiritual <span class="blue">Beliefs</span></h2>
+  <p>
+    The Daiva is believed to act as a guardian spirit, delivering justice,
+    resolving disputes, and guiding the community.
+  </p>
+  <p>
+    Devotees seek blessings for protection, prosperity, and harmony.
+  </p>
+</section>
+
+<section id="significance" class="section soft">
+  <h2>Cultural <span class="blue">Significance</span></h2>
+  <p>
+    Bhuta Kola represents a unique fusion of spirituality, social order,
+    and environmental respect. It reinforces moral values and community unity.
+  </p>
+  <p>
+    Even today, Bhuta Kola remains a powerful symbol of Tulunadu’s
+    living heritage.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 · <span class="blue">Tulu Culture & Heritage</span></p>
+</footer>
+
+</body>
+</html>

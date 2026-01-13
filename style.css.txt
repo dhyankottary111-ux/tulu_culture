@@ -1,0 +1,100 @@
+/* GLOBAL */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* BLUE HIGHLIGHT */
+.blue {
+  color: #1e88e5;
+  font-weight: 600;
+}
+
+/* HERO */
+.hero {
+  background: linear-gradient(to right, #e3f2fd, #ffffff);
+  text-align: center;
+  padding: 70px 20px;
+}
+
+.hero h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+}
+
+/* NAVBAR */
+.navbar {
+  position: sticky;
+  top: 0;
+  background: #1e88e5;
+  padding: 15px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 18px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* SECTIONS */
+.section {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 20px;
+}
+
+.soft {
+  background: #f5faff;
+  border-radius: 16px;
+}
+
+/* GRID */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+/* CARD */
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* FOOD */
+.food-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.food-list li {
+  margin: 10px 0;
+}
+
+/* FOOTER */
+footer {
+  background: #e3f2fd;
+  text-align: center;
+  padding: 20px;
+  margin-top: 80px;
+}

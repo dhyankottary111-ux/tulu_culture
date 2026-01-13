@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tulu Culture & Heritage</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<header class="hero">
+  <h1><span class="blue">Tulu</span> Culture & Heritage</h1>
+  <p>Preserving the soul of <span class="blue">Tulunadu</span></p>
+</header>
+
+<!-- NAVIGATION -->
+<nav class="navbar">
+  <a href="#about">About</a>
+  <a href="#traditions">Traditions</a>
+  <a href="#food">Cuisine</a>
+  <a href="#heritage">Heritage</a>
+</nav>
+
+<!-- ABOUT -->
+<section id="about" class="section">
+  <h2>About <span class="blue">Tulunadu</span></h2>
+  <p>
+    Tulunadu is a culturally rich coastal region of South India, known for
+    its ancient traditions, rituals, language, and strong community values.
+    The Tuluva people have preserved their heritage through generations.
+  </p>
+</section>
+
+<!-- TRADITIONS -->
+<section id="traditions" class="section soft">
+  <h2>Traditional <span class="blue">Arts & Rituals</span></h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3><span class="blue">Bhuta Kola</span></h3>
+      <p>
+        A sacred ritual where divine spirits (Daivas) are worshipped.
+        Performers embody the spirit using elaborate costumes and rituals.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="blue">Pili Vesha</span></h3>
+      <p>
+        A vibrant tiger dance performed during festivals. Dancers paint
+        themselves as tigers and perform to rhythmic drum beats.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="blue">Yakshagana</span></h3>
+      <p>
+        A traditional dance-drama combining music, dialogue, and colorful
+        costumes to narrate stories from epics.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3><span class="blue">Kambala</span></h3>
+      <p>
+        A traditional buffalo race conducted in muddy fields, symbolizing
+        agricultural heritage and community spirit.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- FOOD -->
+<section id="food" class="section">
+  <h2>Traditional <span class="blue">Cuisine</span></h2>
+  <p>
+    Tulu cuisine reflects simplicity, coastal ingredients, and bold flavors.
+    Rice, coconut, and spices form the heart of everyday meals.
+  </p>
+
+  <ul class="food-list">
+    <li><span class="blue">Neer Dosa</span> – soft rice crepes</li>
+    <li><span class="blue">Kori Rotti</span> – chicken curry with crispy rotti</li>
+    <li><span class="blue">Bangude Pulimunchi</span> – spicy mackerel curry</li>
+  </ul>
+</section>
+
+<!-- HERITAGE -->
+<section id="heritage" class="section soft">
+  <h2>Rich <span class="blue">Heritage</span></h2>
+  <p>
+    Tulu culture is deeply connected to nature, ancestors, and community life.
+    Respect, unity, and spirituality define the cultural identity of Tulunadu.
+  </p>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 | <span class="blue">Tulu Culture & Heritage</span></p>
+</footer>
+
+</body>
+</html>

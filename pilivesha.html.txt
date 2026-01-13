@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pili Vesha | Tulu Culture</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <h1><span class="blue">Pili Vesha</span></h1>
+  <p>The vibrant tiger dance of Tulunadu</p>
+</header>
+
+<nav class="navbar">
+  <a href="index.html">Home</a>
+  <a href="gallery.html">Gallery</a>
+</nav>
+
+<section class="section">
+  <h2>About Pili Vesha</h2>
+
+  <div class="img-box">
+    <img src="images/pilivesha-street.jpg" alt="">
+  </div>
+
+  <p>
+    Pili Vesha is a traditional folk dance where performers paint their bodies
+    like tigers and dance during festivals and processions.
+  </p>
+
+  <div class="img-box">
+    <img src="images/pilivesha-bodypaint.jpg" alt="">
+  </div>
+
+  <p>
+    It represents courage, energy, and community celebration.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 · <span class="blue">Tulu Culture & Heritage</span></p>
+</footer>
+
+</body>
+</html>
